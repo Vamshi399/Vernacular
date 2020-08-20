@@ -56,6 +56,6 @@ If using python you should use [Django rest framework](https://www.django-rest-f
 * Team 5
   * [Mural](https://bit.ly/ssi-team5-m)
   * [Allan Poe Exercise](https://docs.google.com/presentation/d/151LHLPs7OzuJkp81vRVNB68dzIUpObAI1hnKBAUxSG0/edit?usp=sharing)
-  * [Google Colab](https://colab.research.google.com/drive/15Zkgda8WJC_czwoj03-Fnc_k0U7fV9UP)
+  * [Google Colab](https://colab.research.google.com/drive/15Zkgda8WJC_czwoj03-Fnc_k0U7fV9UP/edit?usp=sharing)
   * [Presentation](https://docs.google.com/presentation/d/1H_9I3qmducNgctZZ0zZ7dSKQ8B1BVX49Y6obZE1v_Qw/edit?usp=sharing)
   * [Video]()
